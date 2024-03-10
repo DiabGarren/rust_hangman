@@ -3,7 +3,7 @@
 This simple console based hang man game was created using Rust.
 I made this project to learn Rust and further my general understanding of programming.
 
-[Software Demo Video]()
+[Software Demo Video](https://youtu.be/6fPdBhmCZtc)
 
 # Development Environment
 
@@ -17,6 +17,6 @@ Rust
 
 # Useful Websites
 
-- [W3 Schools](https://www.w3schools.com/cs/index.php)
+- [Dev Community](https://dev.to/)
 - [stackoverflow](https://stackoverflow.com/)
-- [NextJS](https://nextjs.org/)
+- [Rust Programming Language Forum](https://users.rust-lang.org/)
